@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: FirstAppAvalonia.Desktop",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/FirstAppAvalonia.Desktop/FirstAppAvalonia.Desktop.csproj",
+            "launchConfigurationId": "TargetFramework=;FirstAppAvalonia.Desktop"
+        }
+    ]
+}
